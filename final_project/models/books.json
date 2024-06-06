@@ -1,0 +1,26 @@
+[
+  {
+    "isbn": "9780132350884",
+    "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "author": "Robert C. Martin",
+    "reviews": []
+  },
+  {
+    "isbn": "9780596007126",
+    "title": "JavaScript: The Good Parts",
+    "author": "Douglas Crockford",
+    "reviews": []
+  },
+  {
+    "isbn": "9780596007127",
+    "title": "JavaScript: The Good Parts Vol. 2",
+    "author": "Douglas Crockford",
+    "reviews": []
+  },
+  {
+    "isbn": "9780201616224",
+    "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+    "author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+    "reviews": []
+  }
+]
